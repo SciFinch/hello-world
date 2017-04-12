@@ -7,3 +7,5 @@ Branches are copies of the master (or other branches), which are used to make ch
 Commits are the changes made to the branch
 Pull requests suggest the changes be incorporated the the next branch up (or master)
 Pull requests, once accepted, can then be deleted.
+
+FIN
